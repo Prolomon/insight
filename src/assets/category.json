@@ -1,0 +1,44 @@
+[
+    {
+        "category": "tech"
+    },
+    {
+        "category": "fasion"
+    },
+    {
+        "category": "politics"
+    },
+    {
+        "category": "religon"
+    },
+    {
+        "category": "sport"
+    },
+    {
+        "category": "science"
+    },
+    {
+        "category": "education"
+    },
+    {
+        "category": "entertainment"
+    },
+    {
+        "category": "buisness"
+    },
+    {
+        "category": "travel"
+    },
+    {
+        "category": "live"
+    },
+    {
+        "category": "weather"
+    },
+    {
+        "category": "crypto"
+    },
+    {
+        "category": "finance"
+    }
+]
